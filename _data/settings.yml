@@ -1,7 +1,7 @@
-title: 'BitDevsNBO'
-tagline: 'BitDevsNBO is a monthly meetup devoted to the research and development of Bitcoin'
+title: 'BitDevsKSM'
+tagline: 'BitDevsKSM is a meetup devoted to the research and development of Bitcoin for developers in Kisumu, Kenya and surrounding areas.'
 
 menu:
-  - {name: 'X', url: 'https://x.com/BitDevsNBO', external: true}
-  - {name: 'Discord', url: 'https://discord.gg/RQmYSGJeNZ', external: true}
-  - {name: 'Luma', url: 'https://lu.ma/bitdevsnbo', external: true}
+  - {name: 'X', url: '#', external: true}
+  - {name: 'Discord', url: '#', external: true}
+  - {name: 'Luma', url: '#', external: true}
