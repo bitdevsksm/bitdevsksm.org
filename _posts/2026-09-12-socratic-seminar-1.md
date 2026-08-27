@@ -28,7 +28,7 @@ Kisumu - Vihiga Rd, Kisumu
 ### Announcements
 
 We are excited to introduce our very first [Socratic Seminar](/about)! A special thank you to our 
-sponsors [Gridless Compute](https://gridlesscompute.com/) for food and refreshments.
+sponsors [Lakehub](https://www.lakehub.co.ke) for the venue.
 
 ### Reminders
 

@@ -2,6 +2,6 @@ title: 'BitDevsKSM'
 tagline: 'BitDevsKSM is a meetup devoted to the research and development of Bitcoin for developers in Kisumu, Kenya and surrounding areas.'
 
 menu:
-  - {name: 'X', url: '#', external: true}
-  - {name: 'Discord', url: '#', external: true}
+  - {name: 'X', url: 'https://x.com/BitDevsKsm', external: true}
+  - {name: 'Discord', url: 'https://discord.gg/FXeMKgtYQB', external: true}
   - {name: 'Luma', url: '#', external: true}
