@@ -4,4 +4,4 @@ tagline: 'BitDevsKSM is a meetup devoted to the research and development of Bitc
 menu:
   - {name: 'X', url: 'https://x.com/BitDevsKsm', external: true}
   - {name: 'Discord', url: 'https://discord.gg/FXeMKgtYQB', external: true}
-  - {name: 'Luma', url: '#', external: true}
+  - {name: 'Luma', url: 'https://luma.com/bitdevsksm', external: true}
