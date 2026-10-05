@@ -23,7 +23,7 @@ title: "Socratic Seminar #2"
 
 11:10am Welcoming Address
 
-11:20 Mastering Bitcoin Book Club I: [Introduction](https://pathways.btrust.tech/01/mastering-bitcoin/study-materials#chapter-1-introduction) 
+11:20am Mastering Bitcoin Book Club I: [Introduction](https://pathways.btrust.tech/01/mastering-bitcoin/study-materials#chapter-1-introduction) 
 
 11:50am Mastering Bitcoin Book Club II: [How Bitcoin Works](https://pathways.btrust.tech/01/mastering-bitcoin/study-materials#chapter-2-how-bitcoin-works)
 
