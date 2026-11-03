@@ -23,15 +23,17 @@ title: "Socratic Seminar #3"
 
 11:10am Welcoming Address
 
-11:20am Mastering Bitcoin Book Club I: [Introduction](https://pathways.btrust.tech/01/mastering-bitcoin/study-materials#chapter-1-introduction) 
+11:20am BIP Purpose and Guidelines (BIP 1): [BIP 1: BIP Purpose and Guidelines](https://bips.dev/1/) 
 
-11:50am Mastering Bitcoin Book Club II: [How Bitcoin Works](https://pathways.btrust.tech/01/mastering-bitcoin/study-materials#chapter-2-how-bitcoin-works)
+11:40am BIP process, revised (BIP 2): [BIP 2: BIP process, revised](https://bips.dev/2/)
 
-12:20pm Opensource Golang Bitcoin Projects
+12:00 Updated BIP Process (BIP 3): [BIP 3: Updated BIP Processs](https://bips.dev/3/)
 
-12:50pm Setting up Bitcoin core
+12:20pm LND Project Reviewing some old PRs: [Review PRs tagged Beginner](https://github.com/lightningnetwork/lnd/pulls?q=is%3Apr+state%3Aclosed+label%3Abeginner)
 
-13:30pm - 14:30pm Refreshments and Networking
+13:00pm How I would get started contributing to btcd (Discussion).
+
+13:30pm Refreshments and Networking
 
 ### Location
 
@@ -45,4 +47,4 @@ Kisumu - Vihiga Rd, Kisumu
 
 #### News and Events
 
-  - [Africa Bitcoin Conference 2026](https://www.afrobitcoin.org/) Dec. 2-4
+- [Africa Bitcoin Conference 2026](https://www.afrobitcoin.org/) Dec. 2-4
